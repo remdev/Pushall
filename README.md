@@ -1,7 +1,7 @@
 # Pushall
 Pushall PHP client
 
-** Как использовать? **
+####Как использовать?
 
 Смотрите index.php
 
